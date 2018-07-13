@@ -7,7 +7,7 @@
 <tr>
 <td style="width: 179.19px;"><img src="img/tfnsw.png" alt="Transport NSW" /></td>
 <td style="width: 502.81px;">
-<h3><span style="color: #ff6600;"><strong>Transport NSW Openshift PaaS Demo</strong></span></h3>
+<h3><span style="color: #ff6600;"><strong>Transport NSW Openshift PaaS Demo - This runs from Openshift Redhat cloud - Trial account</strong></span></h3>
 </td>
 </tr>
 <tr>
